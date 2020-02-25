@@ -17,7 +17,7 @@ It will install JDK 11 needed to run this application
 -Open IntelliJ IDEA and click on File->Open and search where you downloaded the project
 **OR**
 -If you do not have IntelliJ IDEA installed, navigate to the /src/com directory
-Run commands:
+run the commands:
 ```
 javac -g company/Main.java
 ```
