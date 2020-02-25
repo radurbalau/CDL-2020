@@ -2,9 +2,8 @@
 Open Source Search Engine
 
 ### Prerequisites
-To install the software you need to install a version of IntelliJ IDEA
-For this application i chose to develop and run it on IntelliJ IDEA Community
-java 11 is needed
+To install the software you need to install a version of IntelliJ IDEA **OR**
+install java 11 with my installation script.
 
 ### Installing
 Run with sudo the installation bash script with the command:
@@ -16,8 +15,8 @@ It will install JDK 11 needed to run this application
 ### Running the tests
 -Open IntelliJ IDEA and click on File->Open and search where you downloaded the project
 **OR**
--If you do not have IntelliJ IDEA installed, navigate to the /src/com directory
-run the commands:
+ If you do not have IntelliJ IDEA installed, navigate to the /src/com directory
+and run the commands:
 ```
 javac -g company/Main.java
 ```
